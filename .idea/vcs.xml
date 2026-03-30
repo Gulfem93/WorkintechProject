@@ -6,5 +6,8 @@
     <mapping directory="$PROJECT_DIR$/FSWEB-s19-Challenge" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FSWeb-S2G4-JavaScript-tekrar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Workintech-Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ecommerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fsweb-s4-bonus-challenge-html-pizza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fsweb-s8-challenge-pizza" vcs="Git" />
   </component>
 </project>
